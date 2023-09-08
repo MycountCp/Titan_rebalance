@@ -4,9 +4,9 @@
 
 链接
 
-[Thunder Store](https://github.com/Dinorush/LTSRebalance)
+[Thunder Store](https://northstar.thunderstore.io/package/Dinorush/LTS_Rebalance/)
 
-[GitHub](https://northstar.thunderstore.io/package/Dinorush/LTS_Rebalance/)
+[GitHub](https://github.com/Dinorush/LTSRebalance)
 
 ### 修改内容
 
