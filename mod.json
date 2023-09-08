@@ -1,0 +1,16 @@
+{
+	"Name": "Titan_rebalance",
+	"Description": "",
+	"LoadPriority": 1,
+	"Version": "1.0.0",
+
+	"Scripts": [
+		{
+			"Path": "titan_rebalance.nut",
+			"RunOn": "SERVER && MP",
+			"ServerCallback": {
+				"After": "Titan_ReBalance_Init"
+			}
+		}
+	]
+}
