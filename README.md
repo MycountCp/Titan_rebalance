@@ -3,10 +3,13 @@
 -该mod部分功能思路来自LTSRebalance mod，作者是dinorush，
 
 
--链接[ThunderStore链接]（https://github.com/Dinorush/LTSRebalance）
+链接
 
 
--链接[GitHub链接]（https://northstar.thunderstore.io/package/Dinorush/LTS_Rebalance/）
+-[ThunderStore链接]（https://github.com/Dinorush/LTSRebalance）
+
+
+-GitHub链接]（https://northstar.thunderstore.io/package/Dinorush/LTS_Rebalance/）
 
 
 ###更改内容###
